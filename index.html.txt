@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vandaads Keyboards</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Vandaads Keyboards</h1>
+    <nav>
+      <a href="#about">About Us</a>
+      <a href="#listings">Keyboards</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Welcome to Vandaads Keyboards! We specialize in high-quality keyboards designed for all types of users, from gamers to typists.</p>
+  </section>
+
+  <section id="listings">
+    <h2>Our Keyboards</h2>
+
+    <div class="product" id="product1">
+      <h3>Vandaads Mechanical Pro</h3>
+      <p>A high-performance mechanical keyboard with customizable RGB lighting, perfect for gaming and productivity.</p>
+    </div>
+
+    <div class="product" id="product2">
+      <h3>Vandaads Slimline</h3>
+      <p>A sleek, low-profile keyboard ideal for minimalist setups, featuring quiet keys and a compact design.</p>
+    </div>
+
+    <div class="product" id="product3">
+      <h3>Vandaads Ergonomic Comfort</h3>
+      <p>An ergonomic keyboard with a split design to reduce strain, designed for long hours of typing.</p>
+    </div>
+
+    <div class="product" id="product4">
+      <h3>Vandaads Portable Mini</h3>
+      <p>A compact, wireless keyboard that's perfect for on-the-go productivity, compatible with all major devices.</p>
+    </div>
+
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: support@vandaadkeyboards.com</p>
+    <p>Phone: 123-456-7890</p>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
